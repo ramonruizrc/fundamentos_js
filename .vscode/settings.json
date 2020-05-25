@@ -1,11 +1,13 @@
 {
     "cSpell.words": [
         "a",
+        "al",
         "apellido",
         "apellido en minusculas",
         "años",
         "cantidad",
         "cantidad de letras del nombre",
+        "cantidad de porciones por persona",
         "clase",
         "completo",
         "de",
@@ -13,7 +15,10 @@
         "definir",
         "del",
         "en",
+        "futbol",
         "hola",
+        "jugar",
+        "jugar al futbol",
         "letra",
         "letras",
         "mayusculas",
@@ -21,9 +26,16 @@
         "nombre",
         "nombre completo",
         "nombre en mayusculas",
+        "numeros",
         "os",
+        "persona",
+        "por",
+        "porciones",
+        "precio",
+        "precio de vino",
         "primera",
         "primera letra del nombre",
-        "tengo"
+        "tengo",
+        "vino"
     ]
 }
